@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = wang.jiazi1994@yahoo.com
+	name = jiaziwang
